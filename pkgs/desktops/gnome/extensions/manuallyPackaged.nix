@@ -19,4 +19,5 @@
   "tilingnome@rliang.github.com" = callPackage ./tilingnome { };
   "TopIcons@phocean.net" = callPackage ./topicons-plus { };
   "window-corner-preview@fabiomereu.it" = callPackage ./window-corner-preview { };
+  "window-thumbnails@G-dH.github.com" = callPackage ./window-thumbnails { };
 }
