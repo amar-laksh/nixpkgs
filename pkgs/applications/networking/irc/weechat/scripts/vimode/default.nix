@@ -5,8 +5,8 @@ stdenv.mkDerivation {
   version = "0.7";
 
   src = fetchurl {
-    url = "https://raw.githubusercontent.com/GermainZ/weechat-vimode/refs/tags/0.7/vimode.py";
-    sha256 = "8fd0ca52e40be4faf91d6bcb4c99294865a8516826765eb0e3e7f2dea8e3909a";
+    url = "https://github.com/GermainZ/weechat-vimode/blob/192eb3ef0fa2166e1d35a163434b9e446226a4fa/vimode.py";
+    sha256 = "43f78716f1d48d3859960c1600d0f0a5";
   };
 
   dontUnpack = true;
