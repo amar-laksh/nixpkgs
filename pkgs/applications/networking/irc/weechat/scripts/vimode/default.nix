@@ -23,6 +23,6 @@ stdenv.mkDerivation {
   meta = with lib; {
     description = "Add vi/vim-like modes and keybindings to WeeChat.";
     license = licenses.gpl3Only;
-    maintainers = with maintainers; [ amar-laksh ];
+    maintainers = with maintainers; [ qyliss ];
   };
 }
