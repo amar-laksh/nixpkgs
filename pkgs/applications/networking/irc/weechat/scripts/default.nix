@@ -34,4 +34,6 @@
   highmon = callPackage ./highmon { };
 
   zncplayback = callPackage ./zncplayback { };
+
+  vimode = callPackage ./vimode { };
 }
